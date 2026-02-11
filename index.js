@@ -23,6 +23,12 @@ const projects = [
         description: "API REST criada via CLI.",
         technologies: ["Node.js", "Express", "PostgreSQL"],
         link: "https://github.com/teteu434/projetoCIT"
+    },
+    {
+        title: "Fila de Mensageria RabbitMQ",
+        description: "Sistema de fila de mensageria com exchange fanout, utilizando RabbitMQ, .NET e Docker",
+        technologies: ["RabbitMQ", ".NET", "Docker"],
+        link: "https://github.com/teteu434/MensageriaRabbit"
     }
 ];
 
